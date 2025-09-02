@@ -1,4 +1,4 @@
-// Fazendo bolo de três camadas de recheio
+// Bolo com três camadas de recheio
 primeiroPasso = "1. Pegue os igredientes e os itens de produção de acordo com a descrição no livro de receitas \n"
 segundoPasso = "2. Pegue os itens de produção e comece preparando os três recheios \n"
 terceiroPasso = "3. Coloque os recheios na geladeira conforme for ficando pronto \n"
@@ -19,3 +19,4 @@ decimoSextoPasso = "16. Após a estrutura ficar firme, o bolo está pronto para 
  // utilizando o console.log para exibir as informações
 
 console.log(primeiroPasso,segundoPasso,terceiroPasso,quartoPasso,quintoPasso,sextoPasso,sétimoPasso,oitavoPasso,nonoPasso,decimoPasso,decimoPrimeiroPaaso,decimoSegundoPasso,decimoTerceiroPasso,decimoQuartoPasso,decimoQuintoPasso,decimoSextoPasso)
+
